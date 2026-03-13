@@ -1,10 +1,12 @@
 body{
    background-color: rgb(212, 109, 105); 
 }
+/*Extra*/
 @font-face {
     font-family: Cosmo Corner;
     src: url(Cosmo\ Corner.ttf);
 }
+/*      */
 h1{
     color:rgb(30, 33, 211);
     font-family: Cosmo Corner;
